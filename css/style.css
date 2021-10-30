@@ -166,10 +166,10 @@ nav .fas {
     display: none;
 }
 .head {
-    margin: 150px 50px 20px 50px;
+    margin: 150px 121px 20px 114px;
 }
 .head-row {
-    width: 95%;
+    width: 126%;
     display: flex;
     align-items: center;
     flex-wrap: wrap;
@@ -177,18 +177,20 @@ nav .fas {
 }
 .head-left-col {
     flex-basis: 50%;
-    width: 350px;
+    width: 100%;
 }
 
 .head-right-col {
     flex-basis: 50%;
+    width: 100%;
 }
 .head-right-col img {
-    max-width: 345px;
+    max-width: 45%;
 }
 
 .head-text h1 {
-    font-size: 50px;
+    font-size: 60px;
+    max-width: 60%;
     margin: 0 0 var(--1-5) 0;
 }
 .head-text small {
