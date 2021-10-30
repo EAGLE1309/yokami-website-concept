@@ -460,7 +460,6 @@ hr {
 }
 .head-right-col img {
     max-width: 345px;
-    margin: 0 0 0 -20px;
 }
 
 .head-text h1 {
@@ -513,7 +512,7 @@ hr {
         margin: 20px 0;
     }
     .head-right-col img {
-        margin: 0 0 0 -23px;
+        margin: 0 0 0 -27px;
     }
     .nav-links ul {
         padding: 30px;
