@@ -166,7 +166,10 @@ nav .fas {
     display: none;
 }
 .head {
-    padding: 150px 50px 20px 50px;
+    margin: 150px 50px 20px 50px;
+}
+.head-row {
+    width: 95%;
     display: flex;
     align-items: center;
     flex-wrap: wrap;
@@ -204,7 +207,7 @@ nav .fas {
     max-height: 500px;
     margin: auto;
     padding: var(--1-5) 0 0 0;
-    max-width: 85%;
+    max-width: 70%;
     text-align: center;
 }
 .about-text h1 {
