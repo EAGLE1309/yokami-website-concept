@@ -513,7 +513,7 @@ hr {
         margin: 20px 0;
     }
     .head-right-col img {
-        margin: 25px 0;
+        margin: 0 0 0 -23px;
     }
     .nav-links ul {
         padding: 30px;
