@@ -48,7 +48,7 @@ button {
     width: 100%;
     min-height: 350px;
     text-align: center;
-    margin: 0 2rem 2.5rem 2rem;
+    margin: 0 2rem 2.5rem;
 }
 
 /*-- Typography --*/
@@ -78,7 +78,7 @@ p {
     transition: 0.7s;
 }
 .btn-primary:hover {
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
 }
 .btn-second {
     background-color: var(--c-main);
@@ -129,7 +129,7 @@ nav {
 .sticky {
     position: fixed;
     background-color: #fff;
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
     z-index: 600;
 }
 h2 {
@@ -222,12 +222,12 @@ nav .fas {
 .card {
     width: 400px;
     min-height: 400px;
-    margin: 0 auto 30px auto;
+    margin: 0 auto 30px;
     text-align: center;
     font-size: 16px;
     background: #fff;
     border-radius: 16px;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0 7px 29px 0;
 }
 .card-img {
     max-width: 120px;
@@ -248,7 +248,7 @@ nav .fas {
     }
 }
 .card-header {
-    padding: 36px 0 25px 0;
+    padding: 36px 0 25px;
 }
 .card-body p {
     padding: 10px 16px;
@@ -297,7 +297,7 @@ nav .fas {
     height: 250px;
     margin: auto;
     border-radius: 16px;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0 7px 29px 0;
     transition: 0.5s;
 }
 .srv:hover {
@@ -316,7 +316,7 @@ nav .fas {
 .srv i {
     font-size: 50px;
     color: var(--c-dark-1);
-    padding: 1.75rem 0 25px 0;
+    padding: 1.75rem 0 25px;
 }
 
 .srv p {
@@ -356,7 +356,7 @@ form input, form textarea {
     color: #868686;
 }
 .describe {
-    padding: 4px auto auto auto;
+    padding: 4px auto auto;
     min-height: 120px;
 }
 .form-btn {
@@ -441,7 +441,7 @@ hr {
         width: 150%;
     }
     .head {
-    margin: 110px 50px 20px 50px;
+    margin: 110px 50px 20px;
     }
 .head-row {
     width: 95%;
@@ -470,7 +470,7 @@ hr {
 }
 
     .head {
-        padding: 0 0 100px 0;
+        padding: 0 0 100px;
     }
     .head-text h1 {
         font-size: 40px;
@@ -506,7 +506,7 @@ hr {
         backdrop-filter: blur(15px);
         border-radius: 10px;
         border: 1px solid rgba(255,255,255,0.2);
-        box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+        box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
     }
     .head-left-col {
         margin: 20px 0;
