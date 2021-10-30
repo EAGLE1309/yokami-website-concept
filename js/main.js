@@ -1,12 +1,3 @@
-const nav = document.getElementById("nav-links");
-
-const cross = document.getElementById("cross");
-
-const menu = document.getElementById("menu");
-
-const navText = document.getElementById("nav-text");
-
-/*
 //smooth scroll animation
 AOS.init();
 ScrollReveal({
@@ -33,28 +24,9 @@ const scroll = new SmoothScroll('a[href*="#"]', {
     speed: 1000,
     speedAsDuration: true
 });
-*/
-//Nav Bar animation for mobile
-menu.addEventListener("click", show)
 
-function show() {
-
-    nav.style.right = "5px";
-
-}
-
-cross.addEventListener("click", hide)
-
-navText.addEventListener("click", hide)
-
-function hide() {
-
-    nav.style.right = "-200px";
-
-}
 /*-- PAGE EFFECTS --*/
 //swiper JS
-/*
 const swiper = new Swiper('.swiper', {
     // Optional parameters
     direction: 'horizontal',
@@ -134,4 +106,4 @@ document.addEventListener('click', function (e) {
     })
     .replay();
 
-});*/
+});
