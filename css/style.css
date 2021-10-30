@@ -441,6 +441,35 @@ hr {
         width: 150%;
     }
     .head {
+    margin: 150px 50px 20px 50px;
+    }
+.head-row {
+    width: 95%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.head-left-col {
+    flex-basis: 50%;
+    width: 350px;
+}
+
+.head-right-col {
+    flex-basis: 50%;
+}
+.head-right-col img {
+    max-width: 345px;
+}
+
+.head-text h1 {
+    margin: 0 0 var(--1-5) 0;
+}
+.head-text small {
+    font-weight: bold;
+}
+
+    .head {
         padding: 100px 0;
     }
     .head-text h1 {
