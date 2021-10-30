@@ -35,7 +35,7 @@ const scroll = new SmoothScroll('a[href*="#"]', {
 });
 */
 //Nav Bar animation for mobile
-menu.addEventListener("click", show())
+menu.addEventListener("click", show)
 
 function show() {
 
