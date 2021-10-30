@@ -460,6 +460,7 @@ hr {
 }
 .head-right-col img {
     max-width: 345px;
+    margin: 0 0 0 -20px;
 }
 
 .head-text h1 {
