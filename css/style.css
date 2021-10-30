@@ -1,5 +1,3 @@
-@import url('http://fonts.cdnfonts.com/css/creato-display');
-
 /***** VARIABLES *****/
 
 :root {
@@ -174,18 +172,18 @@ nav .fas {
     align-items: center;
     flex-wrap: wrap;
     justify-content: space-between;
+    min-height: 100vh;
 }
 .head-left-col {
     flex-basis: 50%;
     width: 100%;
 }
-
 .head-right-col {
     flex-basis: 50%;
     width: 100%;
 }
 .head-right-col img {
-    max-width: 45%;
+    max-width: 60%;
 }
 
 .head-text h1 {
