@@ -13,7 +13,26 @@
     <script src="https://kit.fontawesome.com/9e17a7170f.js" crossorigin="anonymous"></script>
     <script src="https://unpkg.com/scrollreveal"></script>
     <link href="http://fonts.cdnfonts.com/css/creato-display" rel="stylesheet">
-                
+    <script>
+const nav = document.getElementById("nav-links");
+const cross = document.getElementById("cross");
+const menu = document.getElementById("menu");
+const navText = document.getElementById("nav-text");
+
+menu.addEventListener("click", show)
+
+function show() {
+    nav.style.right = "5px";
+}
+
+cross.addEventListener("click", hide)
+navText.addEventListener("click", hide)
+
+function hide() {
+    nav.style.right = "-200px";
+}
+
+    </script>
     <!--swiper.js-->
     <link
     rel="stylesheet"
