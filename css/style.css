@@ -433,7 +433,7 @@ hr {
 /*-- Mobile view --*/
 
 @media (max-width: 778px) {
-        .container {
+    .container {
         margin-left: 1.5rem;
         margin-right: 1.5rem;
     }
@@ -445,6 +445,8 @@ hr {
         width: 100%;
     }
     .head-row {
+        max-width: 126%;
+        width: auto;
         display: flex;
         align-items: center;
         flex-wrap: wrap;
