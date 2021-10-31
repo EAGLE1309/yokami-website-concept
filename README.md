@@ -7,6 +7,11 @@ Hi guys today I have created a responsive website in HTML, CSS and JavaScript ma
 ### About this Project:
 Recently I practiced html css and JavaScript and decided to create a responsive website with better ui design!
 
+![Lines of code](https://img.shields.io/tokei/lines/github/EAGLE1309/yokami-website-concept?color=%2300cc52)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/EAGLE1309/yokami-website-concept?color=%2300cc52)
+![languages](https://img.shields.io/github/languages/count/EAGLE1309/yokami-website-concept?color=%2300cc52)
+ 
+
 ### Note that:
 `This website was created on android`
 `Also this website is still in development so you may face visual glitches!`
@@ -19,3 +24,4 @@ Recently I practiced html css and JavaScript and decided to create a responsive 
 
 ### Made by Eagle!
 ![madeByEagle](https://socialify.git.ci/EAGLE1309/yokami-website-concept/image?description=1&font=Inter&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
+
