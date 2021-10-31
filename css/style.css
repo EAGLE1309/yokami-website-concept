@@ -454,7 +454,7 @@ hr {
     }
     .head-left-col {
         flex-basis: 50%;
-        margin: auto;
+        margin: 20px 0;
     }
 
     .head-right-col {
@@ -469,13 +469,10 @@ hr {
     .head-text h1 {
         margin: 0 0 var(--1-5) 0;
         max-width: 80%;
+        font-size: 40px;
     }
     .head-text small {
         font-weight: bold;
-    }
-
-    .head-text h1 {
-        font-size: 40px;
     }
     .blob {
         display: none;
@@ -509,9 +506,6 @@ hr {
         border-radius: 10px;
         border: 1px solid rgba(255,255,255,0.2);
         box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
-    }
-    .head-left-col {
-        margin: 20px 0;
     }
     .nav-links ul {
         padding: 30px;
