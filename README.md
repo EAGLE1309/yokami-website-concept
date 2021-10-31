@@ -10,6 +10,7 @@ Recently I practiced html css and JavaScript and decided to create a responsive 
 ![Lines of code](https://img.shields.io/tokei/lines/github/EAGLE1309/yokami-website-concept?color=%2300cc52)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/EAGLE1309/yokami-website-concept?color=%2300cc52)
 ![languages](https://img.shields.io/github/languages/count/EAGLE1309/yokami-website-concept?color=%2300cc52)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1a19b3ee-9614-4ad8-b253-80ef865fe7a7/deploy-status)](https://app.netlify.com/sites/zen-shockley-ffba98/deploys)
  
 
 ### Note that:
