@@ -14,6 +14,7 @@ Recently I practiced html css and JavaScript and decided to create a responsive 
 
 ### Note that:
 `This website was created on android`
+
 `Also this website is still in development so you may face visual glitches!`
 
 ### Preview:
