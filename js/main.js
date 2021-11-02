@@ -1,3 +1,4 @@
+alert("This is still concept version of this website!")
 //smooth scroll animation
 AOS.init();
 ScrollReveal({
