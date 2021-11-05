@@ -1,4 +1,4 @@
-alert("This is still concept version of this website!")
+alert("This is still concept version of this website! If you face any glitches then report it to @eaglegfx_ (Instagram)")
 //smooth scroll animation
 AOS.init();
 ScrollReveal({
